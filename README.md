@@ -1,6 +1,6 @@
 
 <div align="center">
-<h1> Python-Insights <br> Service Company Data Analysis – Mini Project (Python & Pandas) </h1>
+<h1> Service Company Data Analysis <br> Mini Project (Python & Pandas) </h1>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Logo Python" width="220">
 <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" alt="Logo Pandas" width="220">
 </div>
