@@ -1,4 +1,9 @@
-# Service Company Data Analysis – Mini Project (Python & Pandas)
+
+<div align="center">
+<h1> Python-Insights <br> Service Company Data Analysis – Mini Project (Python & Pandas) </h1>
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Logo Python" width="220">
+<img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" alt="Logo Pandas" width="220">
+</div>
 
 This project presents a complete exploratory data analysis (EDA) of a fictional service-based company using **Python**, **Pandas**, and **Matplotlib**.  
 The goal is to simulate a real-world data workflow involving multiple relational datasets, cleaning, merging, KPI calculation, and business insights.
